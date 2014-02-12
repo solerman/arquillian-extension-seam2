@@ -14,7 +14,7 @@
 
   <groupId>org.jboss.arquillian.extension</groupId>
   <artifactId>arquillian-seam2</artifactId>
-  <version>1.0.0.Final-SNAPSHOT</version>
+  <version>1.0.0.Wonder</version>
   <packaging>jar</packaging>
 
   <name>Arquillian Seam 2 Extension</name>
@@ -40,7 +40,7 @@
   <properties>
     <jbossas_7.dist.url>http://www.redpill-linpro.com/sites/default/files/node_files/jboss-as-7.2.0.final_.zip</jbossas_7.dist.url>
     <!-- Versioning -->
-    <version.arquillian_core>1.1.1.Final</version.arquillian_core>
+    <version.arquillian_core>1.1.2.Final</version.arquillian_core>
     <version.arquillian_jbossas>1.0.0.CR3</version.arquillian_jbossas>
 
     <version.jbossas_4>4.2.3.GA</version.jbossas_4>
@@ -52,11 +52,11 @@
     <version.fest.assert>1.4</version.fest.assert>
     <version.shrinkwrap.descriptors>2.0.0-alpha-5</version.shrinkwrap.descriptors>
     <version.xml.unit>1.4</version.xml.unit>
-    <version.seam>2.3.1.Final</version.seam>
+    <version.seam>2.2.1.Final</version.seam>
 
     <!-- override from parent -->
-    <maven.compiler.argument.target>1.5</maven.compiler.argument.target>
-    <maven.compiler.argument.source>1.5</maven.compiler.argument.source>
+    <maven.compiler.argument.target>1.6</maven.compiler.argument.target>
+    <maven.compiler.argument.source>1.6</maven.compiler.argument.source>
 
   </properties>
 
